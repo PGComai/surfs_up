@@ -8,10 +8,10 @@
 
 ## Results
 
-# June -- 
+### June -- 
 ![image](/resources/june.png)
 
-# December --
+### December --
 ![image](/resources/december.png)
 
 ## Summary
