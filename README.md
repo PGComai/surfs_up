@@ -6,6 +6,8 @@ The purpose of this project is to show my potential investor, W.Avy, that Oahu w
 
 ## Results
 
+Here are summary statistics of the temperature data for the two months in Fahrenheit:
+
 ### June
 ![image](/resources/june.png)
 
